@@ -5,12 +5,17 @@
 [Trave App](https://travel-vue.netlify.app/)
 
 ---
+
 [logo]: 1.png
 ![alt text](1.png "Travel App")
+
 ---
+
 [logo]: 2.png
 ![alt text](2.png "Travel App")
+
 ---
+
 [logo]: 3.png
 ![alt text](3.png "Travel App")
 
