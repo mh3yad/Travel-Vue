@@ -21,11 +21,11 @@
 
 # Features
 
--Vue routes
--Nested routes
--ScrollBar Behaviour
--Transition
--Navigation Guards
+* Vue routes
+* Nested routes
+* ScrollBar Behaviour
+* Transition
+* Navigation Guards
 
 
 ## Project setup
