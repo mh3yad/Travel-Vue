@@ -19,6 +19,15 @@
 [logo]: 3.png
 ![alt text](3.png "Travel App")
 
+# Features
+
+-Vue routes
+-Nested routes
+-ScrollBar Behaviour
+-Transition
+-Navigation Guards
+
+
 ## Project setup
 ```
 npm install
