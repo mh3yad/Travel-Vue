@@ -1,4 +1,4 @@
-# pet-vue
+# Travel-vue
 
 ## Project setup
 ```
